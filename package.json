@@ -1,0 +1,14 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD Practical Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": ["cicd", "jenkins", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}
+
